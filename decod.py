@@ -4,7 +4,6 @@
 #path = r"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"    startup, local
 #path = r"Software\Microsoft\Windows NT\CurrentVersion", (History)    first, cu
 
-# "iboxk kva" <ibox1313ak@inbox.lv> or ibox1313ak@inbox.lv
 
 class Decod():
     def __init__(self):
